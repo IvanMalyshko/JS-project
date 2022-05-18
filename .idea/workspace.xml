@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d84c0308-bdc3-4b04-81a7-663fb06a55fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -40,14 +39,20 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.script.js">
-    <configuration name="Helo world.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/Helo world.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.dz 5.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/index.html" useBuiltInWebServerPort="true">
+    <configuration name="dz 3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dz 3.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="dz 4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dz 4.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="dz 5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/dz 5.js" working-dir="$PROJECT_DIR$/js">
       <method v="2" />
     </configuration>
     <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
@@ -55,9 +60,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.dz 5.js" />
+        <item itemvalue="Node.js.dz 4.js" />
+        <item itemvalue="Node.js.dz 3.js" />
         <item itemvalue="Node.js.script.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.Helo world.html" />
       </list>
     </recent_temporary>
   </component>
@@ -82,6 +89,8 @@
       <workItem from="1652520447941" duration="9000" />
       <workItem from="1652534697737" duration="7609000" />
       <workItem from="1652592485832" duration="2893000" />
+      <workItem from="1652634608092" duration="1149000" />
+      <workItem from="1652787595595" duration="12137000" />
     </task>
     <servers />
   </component>
@@ -89,25 +98,29 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom" timestamp="1652556060891">
+    <state x="845" y="382" key="#Notifications" timestamp="1652797570789">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652556060891" />
-    <state width="1899" height="281" key="GridCell.Tab.0.center" timestamp="1652556060891">
+    <state x="845" y="382" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1652797570789" />
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom" timestamp="1652816993777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652556060891" />
-    <state width="1899" height="281" key="GridCell.Tab.0.left" timestamp="1652556060891">
+    <state width="1899" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1652816993777" />
+    <state width="1899" height="280" key="GridCell.Tab.0.center" timestamp="1652816993777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652556060891" />
-    <state width="1899" height="281" key="GridCell.Tab.0.right" timestamp="1652556060891">
+    <state width="1899" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1652816993777" />
+    <state width="1899" height="280" key="GridCell.Tab.0.left" timestamp="1652816993777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652556060891" />
-    <state x="922" y="43" width="998" height="838" key="SettingsEditor" timestamp="1652593734009">
+    <state width="1899" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1652816993777" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right" timestamp="1652816993777">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="922" y="43" width="998" height="838" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652593734009" />
+    <state width="1899" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1652816993777" />
+    <state x="922" y="43" width="998" height="838" key="SettingsEditor" timestamp="1652795072027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="43" width="998" height="838" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1652795072027" />
   </component>
 </project>
