@@ -55,12 +55,12 @@ function showMyDB() {
 showMyDB();
 
 function writeYourGenres() {
-    for (let i = 1, i < 4, i++){
+    for (let i = 1; i < 4; i++){
         const userAnswer = prompt(`Ваш любимый жанр ${i}`, 'Боевик');
         if (userAnswer != '' && userAnswer !== null) {
             personlMovieDB.genres.push(userAnswer);
         } else {
-            i--
+            i--;
         }
     }
 }
