@@ -20,12 +20,14 @@ const personlMovieDB = {
 
 function rememberMyFilms() {
     for (let i = 0; i < 2; i++) {
-        const a = prompt('Один из просмотренных фильмов?', '');
+        const a = prompt('Один из просмотренных фильмов?', '').trim();
         const b = +prompt('На сколько оцените его?', '');
         if (a != null && b != null && a != '' && b != '' & a.length < 50) {
             personlMovieDB.movies[a] = b;
+            console.log('done');
         } else {
             i--;
+            console.log('error');
         }
     }
 }
