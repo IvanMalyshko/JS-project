@@ -28,13 +28,14 @@ function isOpen(prop) {
     let answer = '';
     prop ? answer = 'Закрыто' : answer = 'Открыто';
 
-    return anwser;
+    return answer;
 }
 
 console.log(isOpen(restorantData.openNow))
 
 function isAverageLunchPriceTrue(fDish, sDish, average) {
-    if (+fDish.price.slice(0, -1) + (sDish.price) < average) {
+    if (+fDish.price.slice(0, -1) + +(sDish.price) < +average) {
+        debugger;
         return 'Цена ниже средней';
     } else {
         return 'Цена выше средней';
@@ -44,10 +45,11 @@ function isAverageLunchPriceTrue(fDish, sDish, average) {
 console.log(isAverageLunchPriceTrue(restorantData.menu[0], restorantData.menu[1], restorantData.averageLunchPrice));
 
 function transferWaitors(data) {
-    const copy = Object.assign({}, data);
-
+    const copy = {...data,waitors:[...data.waitors]};
     copy.waitors[0] = {name: 'Mike', age: 32};
+
+
     return copy;
 }
 
-transferWaitors(restorantData);
+console.log(transferWaitors(restorantData));
